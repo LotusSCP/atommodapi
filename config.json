@@ -1,0 +1,12 @@
+{
+  "saganetwork": {
+    "panel_url": "https://panel.saganetwork.net",
+    "server_id": "43ef2206-a5ff-4ff8-bfd5-9ac16a5dc11e",
+    "api_key": "ptlc_YsIfuDZimR2TLQcXqjfVnxtLmBuNTlmHcqYXE5TTtI9"
+  },
+  "supabase": {
+    "url": "https://kdvvvldbetjthldhodab.supabase.co",
+    "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtkdnZ2bGRiZXRqdGhsZGhvZGFiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwNjA3NDIsImV4cCI6MjA5MDYzNjc0Mn0.o0WFi9ZYYGkInwFccMruvGYShAO_tQUpMKh_FqLgqBA"
+  },
+  "discord_webhook": "https://discord.com/api/webhooks/BURAYA_WEBHOOK_URL_NI_YAZ"
+}
