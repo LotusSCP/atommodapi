@@ -1,12 +1,12 @@
 {
   "saganetwork": {
     "panel_url": "https://panel.saganetwork.net",
-    "server_id": "43ef2206-a5ff-4ff8-bfd5-9ac16a5dc11e",
+    "server_id": "dfb80ce6-b560-46e2-aa9c-9abc9251c4f2",
     "api_key": "ptlc_YsIfuDZimR2TLQcXqjfVnxtLmBuNTlmHcqYXE5TTtI9"
   },
   "supabase": {
     "url": "https://kdvvvldbetjthldhodab.supabase.co",
     "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtkdnZ2bGRiZXRqdGhsZGhvZGFiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwNjA3NDIsImV4cCI6MjA5MDYzNjc0Mn0.o0WFi9ZYYGkInwFccMruvGYShAO_tQUpMKh_FqLgqBA"
   },
-  "discord_webhook": "https://canary.discord.com/api/webhooks/1493627753411383478/waLqzXWxxghI---MNM9KIp5r3bXjYxRbGkVsUNMdm-r5f3xyQ6C9uK_cG3KicTJZkbHn"
+  "discord_webhook": "https://canary.discord.com/api/webhooks/1512902030384038031/dENtNGe6CKh2lBsS7NZnyKKc2Wp3l32wl20lbKTVBj0ijO9q5CSbfuGh0j82WnOLp6Jb"
 }
